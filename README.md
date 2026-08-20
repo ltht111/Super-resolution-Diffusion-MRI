@@ -3,7 +3,7 @@
 ## Input Structure
 
 
-Example data and weights are in this link.
+Example data and weights are in this link：https://drive.google.com/drive/folders/1fTySiz9Q-UmYEbxDArMEc5jehvjRftUF?usp=sharing
 
 
 Each subdirectory under the input root represents one case:
