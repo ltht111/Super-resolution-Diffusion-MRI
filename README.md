@@ -2,6 +2,10 @@
 
 ## Input Structure
 
+
+Example data and weights are in this link.
+
+
 Each subdirectory under the input root represents one case:
 
 ```text
