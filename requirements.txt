@@ -1,0 +1,13 @@
+# Create a Python 3.8 environment first:
+#   conda create -n disc_inference python=3.8.16 pip=23.0.1 -y
+#   conda activate disc_inference
+#   pip install -r requirements.txt
+#
+# The installed PyTorch build uses CUDA 11.7 and cuDNN 8.5.
+--extra-index-url https://download.pytorch.org/whl/cu117
+
+torch==2.0.1+cu117
+numpy==1.24.3
+nibabel==5.2.0
+opencv-python==4.8.1.78
+PyYAML==6.0
