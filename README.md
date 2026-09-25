@@ -84,3 +84,14 @@ pip install -r requirements.txt
 
 CUDA and PyTorch must be compatible with the installed GPU driver. This
 inference entry point uses one process and one GPU; MPI is not required.
+
+## Installation time
+
+Installation takes approximately 30 minutes, excluding the download time for the
+pretrained weights.
+
+## Demo runtime
+
+Using the provided example dataset, inference takes approximately
+120 minutes per participant on one NVIDIA GeForce RTX 3090 GPU with 24 GB memory.
+
