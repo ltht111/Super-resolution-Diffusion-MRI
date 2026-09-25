@@ -1,5 +1,20 @@
 ## NIfTI Super-Resolution Inference
 
+## System requirements
+
+The code was tested on CentOS Linux 7 (Core) with Python 3.8.16,
+PyTorch 2.0.1, CUDA 11.7, and cuDNN 8.5.
+
+Required Python packages:
+- NumPy 1.24.3
+- NiBabel 5.2.0
+- OpenCV-Python 4.8.1.78
+- PyYAML 6.0
+
+Hardware:
+- NVIDIA GPU: GeForce RTX 3090
+- GPU memory: 24 GB
+
 ## Input Structure
 
 
